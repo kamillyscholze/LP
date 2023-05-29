@@ -1,3 +1,4 @@
+// 1. Leia N e K positivos, para K > N, e imprima a tabuada de N para todo i de 1 a K.
 #include<stdio.h>
 int main()
 {
@@ -25,4 +26,3 @@ int main()
     
     return 0;
 }
-// 1. Leia N e K positivos, para K > N, e imprima a tabuada de N para todo i de 1 a K.
