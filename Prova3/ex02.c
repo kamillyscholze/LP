@@ -29,7 +29,7 @@ int main()
 
     for ( tabuada = 1; tabuada <= N; tabuada++) // 2
     {
-        for (mult = 1; mult <= K; mult++) // 1
+        for (mult = 1; mult <= K; mult++) // 4
         {                           
             result = tabuada * mult;             
             printf("\n%d * %d = %d", tabuada, mult, result);
